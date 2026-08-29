@@ -26,11 +26,11 @@
 
 ### 方式一：安装程序（推荐）
 
-从 [Releases](../../releases) 下载 `章鱼频谱查看器-setup-x.x.x.exe`，双击安装即可（含桌面快捷方式与卸载程序）。
+从 [Releases](../../releases) 下载 `OctopusSpectrumViewer-setup-x.x.x.exe`，双击安装即可（含桌面快捷方式与卸载程序）。
 
 ### 方式二：绿色单文件
 
-从 [Releases](../../releases) 下载 `章鱼频谱查看器.exe`，免安装直接运行。
+从 [Releases](../../releases) 下载 `OctopusSpectrumViewer-x.x.x.exe`，免安装直接运行。
 
 ### 方式三：源码运行
 
