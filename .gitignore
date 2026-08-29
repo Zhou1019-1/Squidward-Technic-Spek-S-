@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 构建产物（通过 GitHub Releases 分发，不入库）
+build/
+dist/
+installer/
+
+# 测试输出
+tests/*_log.txt
+tests/*.txt
+!tests/README.txt
+build_log.txt
+
+# IDE
+.vscode/
+.idea/
